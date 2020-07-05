@@ -11,7 +11,7 @@ The content of **unlib.js** originates from various JavaScript interview tasks, 
 
 ## Methods
 
-### rle
+### [rle](src/rle/)
 
 Implements a [Run-Length Encoding](https://en.wikipedia.org/wiki/Run-length_encoding) algorithm on A-Z strings.
 
