@@ -1,3 +1,5 @@
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+
 # unlib.js
 
 > Although the library may be useful for solving real life problems, it has been created primarily for educational purposes.
