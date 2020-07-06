@@ -10,5 +10,5 @@ Implements [RLE](https://en.wikipedia.org/wiki/Run-length_encoding) compression 
 
 ```
 const s = 'WWWWWWWWWWWWBWWWWWWWWWWWWBBBWWWWWWWWWWWWWWWWWWWWWWWWBWWWWWWWWWWWWWW'
-unlibjs.rle(s) // -> 12W1B12W3B24W1B14W
+unlibjs.rle(s) // -> W12BW12B3W24BW14
 ```
