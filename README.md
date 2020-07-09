@@ -1,4 +1,4 @@
-[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![npm](https://img.shields.io/npm/v/unlibjs)](https://www.npmjs.com/package/unlibjs)
 
 # unlib.js
 
