@@ -3,3 +3,4 @@
  */
 
 export { default as rle } from './rle/rle.loop'
+export { default as online } from './online/online.flat'
