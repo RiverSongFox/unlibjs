@@ -13,6 +13,17 @@ The content of **unlib.js** originates from various JavaScript interview tasks, 
 
 ## Methods
 
+### [online](src/online/)
+
+For given lists of presence hours of several users, returns the intervals when all of them were online.
+
+```js
+unlibjs.online(
+  [[8, 12], [17, 22]],
+  [[5, 11], [14, 18], [20, 23]]
+) // -> [[8, 11], [17, 18], [20, 22]]
+```
+
 ### [rle](src/rle/)
 
 Implements a [Run-Length Encoding](https://en.wikipedia.org/wiki/Run-length_encoding) algorithm on A-Z strings.
